@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left" width="50">
+<div align="left" width="10">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
