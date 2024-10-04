@@ -48,6 +48,8 @@
 
 ###
 
+<a href="https://app.daily.dev/patrickjamesdionen"><img src="https://api.daily.dev/devcards/v2/F2ivuAoInnVleFiy2miwc.png?type=default&r=81c" width="356" alt="Patrick James Dionen's Dev Card"/></a>
+
 <div align="left">
   <a href="https://www.instagram.com/_trkk_18/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
