@@ -3,6 +3,7 @@
 
 <div alignt=center>
 <h2>Stack⚡</h2>
+  
 | **Languages**       | **Frontend**           | **Backend & Frameworks** | **Databases**      | **Deployment**       | **Design & Prototyping** |
 |---------------------|------------------------|---------------------------|-------------------|-----------------------|--------------------------|
 | JavaScript          | Bootstrap              | Node.js                   | MongoDB            | Vercel                | Framer                   |
