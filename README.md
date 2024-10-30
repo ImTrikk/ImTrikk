@@ -1,5 +1,10 @@
+<div align="center">
+  <a href="https://app.daily.dev/patrickjamesdionen">
+    <img src="https://api.daily.dev/devcards/v2/F2ivuAoInnVleFiy2miwc.png?type=default&r=81c" width="356" alt="Patrick James Dionen's Dev Card" />
+  </a>
+</div>
 
-<div align="center"><a href="https://app.daily.dev/patrickjamesdionen"><img src="https://api.daily.dev/devcards/v2/F2ivuAoInnVleFiy2miwc.png?type=default&r=81c" width="356" alt="Patrick James Dionen's Dev Card" /></a></div>
+<br><br>
 
 <div align=center>
   <h2>Stack⚡</h2>
@@ -9,11 +14,12 @@
   | JavaScript          | Bootstrap              | Node.js                   | MongoDB            | Vercel                | Framer                   |
   | TypeScript          | TailwindCSS            | Express.js                | MySQL              | Railway               | Figma                    |
   | Java                | Electron.js            | Laravel                   | Postgres           |                       | Canva                    |
-  | Python              |                        | FastAPI                   | SQLite             |                       |                          |
+  | Python              | React.js               | FastAPI                   | SQLite             |                       |                          |
   | PHP                 |                        | Flask                     | Firebase           |                       |                          |
   | C                   |                        |                           | Supabase           |                       |                          |
-
 </div>
+
+<br><br>
 
 <div align=center> 
   <h2>Stats⚡</h2>
@@ -24,7 +30,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImTrikk&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImTrikk&theme=algolia">
 </div>
-
-
-
-
