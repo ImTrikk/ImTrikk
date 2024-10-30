@@ -14,7 +14,7 @@
   | JavaScript          | Bootstrap              | Node.js                   | MongoDB            | Vercel                | Framer                   |
   | TypeScript          | TailwindCSS            | Express.js                | MySQL              | Railway               | Figma                    |
   | Java                | Electron.js            | Laravel                   | Postgres           |                       | Canva                    |
-  | Python              | React.js               | FastAPI                   | SQLite             |                       |                          |
+  | Python              |                        | FastAPI                   | SQLite             |                       |                          |
   | PHP                 |                        | Flask                     | Firebase           |                       |                          |
   | C                   |                        |                           | Supabase           |                       |                          |
 </div>
