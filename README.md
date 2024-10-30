@@ -1,13 +1,16 @@
-<div style="display: flex; justify-content: center; align-items: flex-start;">
 
-  <div style="margin-right: 50px; text-align: center;">
+
+  <div align=center>
+    <h2>⚡ Developer Card</h2>
+    <br>
     <a href="https://app.daily.dev/patrickjamesdionen">
       <img src="https://api.daily.dev/devcards/v2/F2ivuAoInnVleFiy2miwc.png?type=default&r=81c" width="300" alt="Patrick James Dionen's Dev Card" />
     </a>
   </div>
 
-  <div>
+  <div align=center>
     <h2>⚡ Tech Stack</h2>
+    <br>
     <table>
       <tr>
         <th>Languages</th>
@@ -68,7 +71,7 @@
     </table>
   </div>
 
-</div>
+
 
 <br><br>
 
