@@ -2,8 +2,7 @@
 <div align="center"><a href="https://app.daily.dev/patrickjamesdionen"><img src="https://api.daily.dev/devcards/v2/F2ivuAoInnVleFiy2miwc.png?type=default&r=81c" width="356" alt="Patrick James Dionen's Dev Card" /></a></div>
 
 <div alignt=center>
-  <h2>Stack⚡</h2>
-
+<h2>Stack⚡</h2>
 | **Languages**       | **Frontend**           | **Backend & Frameworks** | **Databases**      | **Deployment**       | **Design & Prototyping** |
 |---------------------|------------------------|---------------------------|-------------------|-----------------------|--------------------------|
 | JavaScript          | Bootstrap              | Node.js                   | MongoDB            | Vercel                | Framer                   |
