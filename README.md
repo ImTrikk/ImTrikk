@@ -1,6 +1,6 @@
 # Hi there! I'm ImTrikk 👋
 
-I'm a passionate **Software Engineer** with experience in crafting high-quality, scalable software solutions. Welcome to my GitHub profile! Here, you'll find projects showcasing my expertise across various domains and technologies.
+I'm a passionate **Software Engineer** with experience in crafting tech solutions. Welcome to my GitHub profile! Here, you'll find projects showcasing my expertise across various domains and technologies.
 
 ---
 
