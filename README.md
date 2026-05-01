@@ -14,4 +14,4 @@ I work across the stack using modern technologies, focusing on clean architectur
 
 * **LinkedIn:** https://www.linkedin.com/in/patrick-james-dionen-1b22aa2b1/
 * **GitHub:** https://github.com/ImTrikk
-* **Portfolio:** https://trkk.exondevs.tech
+* **Portfolio:** https://trkk.vercel.app
