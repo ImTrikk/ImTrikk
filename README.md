@@ -6,9 +6,10 @@ I work across the stack using modern technologies, focusing on clean architectur
 
 ## 🚀 What I Do
 
-* Build responsive and performant web applications
+* Build responsive web applications, extensions, desktop applications, and more!
 * Design scalable backend systems and APIs
 * Continuously improve code quality through refactoring and best practices
+* Utilize AI Agents for faster shipment of features
 
 ## 🔗 Let's Connect
 
