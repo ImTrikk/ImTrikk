@@ -1,17 +1,24 @@
-# Hi, I'm Patrick Dionen 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Patrick James Dionen, full stack developer" width="100%">
+</p>
 
-I'm a **Full Stack Software Engineer** who enjoys building practical, scalable solutions and turning ideas into real, working products.
+I build practical, scalable software and turn ideas into working products. I work across the stack, focus on clean architecture and maintainable code, and ship meaningful features, one commit at a time.
 
-I work across the stack using modern technologies, focusing on clean architecture, maintainable code, and shipping meaningful features—one commit at a time.
+## What I do
 
-## 🚀 What I Do
+- Build responsive web apps, extensions and desktop applications
+- Design scalable backend systems and APIs
+- Keep improving code quality through refactoring and best practices
+- Work with AI agents to ship features faster
 
-* Build responsive web applications, extensions, desktop applications, and more!
-* Design scalable backend systems and APIs
-* Continuously improve code quality through refactoring and best practices
-* Utilize AI Agents for faster shipment of features
+<br>
 
-## 🔗 Let's Connect
+<p align="center">
+  <img src="assets/contact.svg" alt="Let's build something. Got a project, a team or a problem to solve? Say hello." width="100%">
+</p>
 
-* **LinkedIn:** https://www.linkedin.com/in/patrick-james-dionen-1b22aa2b1/
-* **Portfolio:** https://trkk.vercel.app
+<p align="center">
+  <a href="https://trkk.vercel.app"><b>Portfolio</b> ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/patrick-james-dionen-1b22aa2b1/"><b>LinkedIn</b> ↗</a>
+</p>

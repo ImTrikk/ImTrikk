@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="Patrick James Dionen, full stack developer">
+<defs>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.09"/></pattern>
+  <radialGradient id="glow" cx="82%" cy="8%" r="75%"><stop offset="0" stop-color="#22c55e" stop-opacity="0.22"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="319" rx="20" fill="#131313" stroke="#ffffff" stroke-opacity="0.12"/>
+<rect x="0.5" y="0.5" width="899" height="319" rx="20" fill="url(#dots)"/>
+<rect x="0.5" y="0.5" width="899" height="319" rx="20" fill="url(#glow)"/>
+<circle cx="64" cy="58" r="4.5" fill="#22c55e"/>
+<text x="78" y="62" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#ffffff" fill-opacity="0.7">Open for work</text>
+<text x="836" y="62" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#ffffff" fill-opacity="0.45" letter-spacing="1">BUTUAN CITY, PH</text>
+<text x="62" y="154" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="62" fill="#f4f1ea" letter-spacing="-1.5">Patrick James Dionen</text>
+<text x="64" y="202" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.6">Full stack developer, <tspan fill="#f4f1ea" font-family="Georgia,serif" font-style="italic">building practical software</tspan> that ships.</text>
+<line x1="64" y1="250" x2="836" y2="250" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="64" y="284" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#ffffff" fill-opacity="0.45" letter-spacing="1.5">LARAVEL · REACT · NEXT.JS · SUPABASE · AI AGENTS</text>
+<text x="836" y="284" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#4ade80">trkk.vercel.app</text>
+</svg>

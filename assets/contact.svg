@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Let's build something.">
+<defs>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.09"/></pattern>
+  <radialGradient id="glow" cx="82%" cy="8%" r="75%"><stop offset="0" stop-color="#22c55e" stop-opacity="0.22"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></radialGradient>
+</defs>
+<clipPath id="c"><rect x="0.5" y="0.5" width="899" height="239" rx="20"/></clipPath>
+<rect x="0.5" y="0.5" width="899" height="239" rx="20" fill="#eeeeec"/>
+<g clip-path="url(#c)">
+  <g transform="translate(330 -30) rotate(-16) skewX(-8)" fill="none" stroke="#131313" stroke-opacity="0.11" stroke-width="2"><rect x="0" y="0" width="40" height="40" rx="8"/><rect x="48" y="0" width="40" height="40" rx="8"/><rect x="96" y="0" width="40" height="40" rx="8"/><rect x="144" y="0" width="40" height="40" rx="8"/><rect x="192" y="0" width="40" height="40" rx="8"/><rect x="240" y="0" width="40" height="40" rx="8"/><rect x="288" y="0" width="40" height="40" rx="8"/><rect x="336" y="0" width="40" height="40" rx="8"/><rect x="384" y="0" width="40" height="40" rx="8"/><rect x="432" y="0" width="40" height="40" rx="8"/><rect x="14" y="48" width="40" height="40" rx="8"/><rect x="62" y="48" width="40" height="40" rx="8"/><rect x="110" y="48" width="40" height="40" rx="8"/><rect x="158" y="48" width="40" height="40" rx="8"/><rect x="206" y="48" width="40" height="40" rx="8"/><rect x="254" y="48" width="40" height="40" rx="8"/><rect x="302" y="48" width="40" height="40" rx="8"/><rect x="350" y="48" width="40" height="40" rx="8"/><rect x="398" y="48" width="40" height="40" rx="8"/><rect x="28" y="96" width="40" height="40" rx="8"/><rect x="76" y="96" width="40" height="40" rx="8"/><rect x="124" y="96" width="40" height="40" rx="8"/><rect x="172" y="96" width="40" height="40" rx="8"/><rect x="220" y="96" width="40" height="40" rx="8"/><rect x="268" y="96" width="40" height="40" rx="8"/><rect x="316" y="96" width="40" height="40" rx="8"/><rect x="364" y="96" width="40" height="40" rx="8"/><rect x="60" y="144" width="330" height="40" rx="8"/></g>
+</g>
+<text x="56" y="64" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#131313" fill-opacity="0.5" letter-spacing="1.8">CONTACT</text>
+<text x="56" y="128" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="52" fill="#131313" letter-spacing="-1.2">Let’s build something.</text>
+<text x="58" y="172" font-family="Georgia,serif" font-style="italic" font-size="26" fill="#131313" fill-opacity="0.5">Got a project, a team or a problem to solve? Say hello.</text>
+</svg>
