@@ -1,8 +1,16 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Patrick James Dionen, full stack developer" width="100%">
+  <img src="assets/contact.svg" alt="Let's build something. Got a project, a team or a problem to solve? Say hello." width="100%">
 </p>
 
-I build practical, scalable software and turn ideas into working products. I work across the stack, focus on clean architecture and maintainable code, and ship meaningful features, one commit at a time.
+<p align="center">
+  <a href="https://trkk.vercel.app"><b>Portfolio</b> ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/patrick-james-dionen-1b22aa2b1/"><b>LinkedIn</b> ↗</a>
+</p>
+
+<br>
+
+I'm Patrick, a full stack developer. I build practical, scalable software and turn ideas into working products. I work across the stack, focus on clean architecture and maintainable code, and ship meaningful features, one commit at a time.
 
 ## What I do
 
@@ -14,11 +22,5 @@ I build practical, scalable software and turn ideas into working products. I wor
 <br>
 
 <p align="center">
-  <img src="assets/contact.svg" alt="Let's build something. Got a project, a team or a problem to solve? Say hello." width="100%">
-</p>
-
-<p align="center">
-  <a href="https://trkk.vercel.app"><b>Portfolio</b> ↗</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/patrick-james-dionen-1b22aa2b1/"><b>LinkedIn</b> ↗</a>
+  <img src="assets/banner.svg" alt="Patrick James Dionen, full stack developer" width="100%">
 </p>
