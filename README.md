@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://trkk.vercel.app"><b>Portfolio</b> ↗</a>
+  <a href="https://trkku-jmsdd.vercel.app"><b>Portfolio</b> ↗</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/patrick-james-dionen-1b22aa2b1/"><b>LinkedIn</b> ↗</a>
 </p>
