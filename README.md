@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/contact.svg" alt="Let's build something. Got a project, a team or a problem to solve? Say hello." width="100%">
+  <img src="assets/banner.svg" alt="Patrick James Dionen, full stack developer" width="100%">
 </p>
 
 <p align="center">
@@ -21,6 +21,8 @@ I'm Patrick, a full stack developer. I build practical, scalable software and tu
 
 <br>
 
+
+
 <p align="center">
-  <img src="assets/banner.svg" alt="Patrick James Dionen, full stack developer" width="100%">
+  <img src="assets/contact.svg" alt="Let's build something. Got a project, a team or a problem to solve? Say hello." width="100%">
 </p>
